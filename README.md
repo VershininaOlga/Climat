@@ -1,1 +1,1 @@
-# Climat
+# Climate
